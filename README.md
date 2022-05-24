@@ -7,12 +7,12 @@ All provided content is free to use.
 
 License type: [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/), no rights reserved.
 #
-### Shapespark low poly plants kit
+### Shapespark low poly exterior plants kit
 View online: https://demo.shapespark.com/shapespark-low-poly-plants-kit/
 
 ![](shapespark-low-poly-plants-kit/img/shapespark-plants-kit-01.jpg)
 
-### Shapespark interior plants kit
+### Shapespark low poly interior plants kit
 Please notice that all plants are one sided for better geometry optimization. In your render engine please use double sided material.
 For Shapespark users: you can turn on the double sided option in the Materials tab.
 
