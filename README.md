@@ -11,3 +11,11 @@ License type: [CC0 1.0](https://creativecommons.org/share-your-work/public-domai
 View online: https://demo.shapespark.com/shapespark-low-poly-plants-kit/
 
 ![](shapespark-low-poly-plants-kit/img/shapespark-plants-kit-01.jpg)
+
+### Shapespark interior plants kit
+Please notice that all plants are one sided for better geometry optimization. In your render engine please use double sided material.
+For Shapespark users: you can turn on the double sided option in the Materials tab.
+
+View online: https://demo.shapespark.com/shapespark_interior-plants/ 
+
+![](shapespark-interior-plants-kit/img/preview.png)
