@@ -19,3 +19,7 @@ For Shapespark users: you can turn on the double sided option in the Materials t
 View online: https://demo.shapespark.com/shapespark_interior-plants/ 
 
 ![](shapespark-interior-plants-kit/img/preview.png)
+
+### Shapespark textiles set
+
+![](shapespark-textiles-set/img/02.jpg)
