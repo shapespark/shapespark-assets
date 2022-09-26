@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd629a0f9cfefb973f25cf9d0137d400e0760b58098bb1fc5fbe1a3849a5ece2
-size 48
+.idea
+*.DS_Store
+
+# Ignore blender backup files
+*.blend1
