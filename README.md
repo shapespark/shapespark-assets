@@ -26,3 +26,9 @@ View online: https://demo.shapespark.com/shapespark_interior-plants/
 ### Shapespark textiles set
 
 ![](shapespark-textiles-set/img/02.jpg)
+
+### Shapespark example room
+
+View online https://demo.shapespark.com/example-room/
+
+![](shapespark-example-room/previews/02.jpg)
