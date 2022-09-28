@@ -8,7 +8,8 @@ All provided content is free to use.
 License type: [CC0 1.0](https://creativecommons.org/share-your-work/public-domain/cc0/), no rights reserved.
 
 This repository relies on `git-lfs` for storing large files. Please install `git-lfs` before cloning this repository. See [git-lfs](https://git-lfs.github.com/) for more information.
-#
+
+Each asset package is available to download from [release section](https://github.com/shapespark/shapespark-assets/releases)
 
 ### Shapespark low poly exterior plants kit
 View online: https://demo.shapespark.com/shapespark-low-poly-plants-kit/
